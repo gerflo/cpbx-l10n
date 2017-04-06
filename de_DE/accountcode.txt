@@ -1,0 +1,13 @@
+accountcode = Kundencodes
+accountcode.code = Kundencode
+accountcode.code.invalid = Der Kundencode ist ungültig. Verwenden Sie nur Zahlen und das Symbol "*" (Sternchen).
+accountcode.code.tooltip = Kunden Codenummer.
+accountcode.description = Beschreibung
+accountcode.description.tooltip = Kurze Beschreibung zur Identifikation dieses Kundencodes.
+accountcode.enabled = Aktiv
+accountcode.enabled.tooltip = Aktivieren/Deaktivieren Sie diesen Kundencode.
+accountcode.general = Allgemein
+accountcode.not_found = Kundencode-Nummer nicht gefunden.
+accountcode.search = Suche
+module.accountcode = Kundencodes
+menu.account_codes = Kundencodes
