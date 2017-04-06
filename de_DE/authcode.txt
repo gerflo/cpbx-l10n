@@ -1,10 +1,10 @@
-authcode = Authorization Codes
+﻿authcode = Authorization Codes
 authcode.auth_alias = Alias
 authcode.auth_alias.invalid = Bitte geben Sie einen gültigen Alias ein. Zahlen, Briefe, Bindestrich und Unterstrich sind erlaubt.
 authcode.auth_alias.tooltip = Alias, um diesen Berechtigungscode zu identifizieren. Aus Sicherheitsgründen erscheint dies auf CDR-Berichten statt des Auth-Codes
 authcode.auth_alias.unique = Der Alias muss eindeutig sein.
-authcode.class_of_service_id = Leistungsart
-authcode.class_of_service_id.tooltip = Leistungsart, welche verwendet wird, um den Anruf zu führen
+authcode.class_of_service_id = Dienstklasse
+authcode.class_of_service_id.tooltip = Dienstklasse, welche verwendet wird, um den Anruf zu führen
 authcode.code = Authorisierungscode
 authcode.code.invalid = Der Autorisierungscode ist ungültig. Verwenden Sie nur Zahlen und das Symbol "*" (Sternchen).
 authcode.code.tooltip = Die Nummer des Autorisierungscode
