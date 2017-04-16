@@ -1,11 +1,11 @@
 blacklist = Schwarze Liste
 blacklist.description = Beschreibung
-blacklist.description.tooltip = Kurze Beschreibung für die Nummer, welche in die schwarze Liste aufgenommen werden soll.
+blacklist.description.tooltip = Kurze Beschreibung fŸr die Nummer, welche in die schwarze Liste aufgenommen werden soll.
 blacklist.general = Allgemein
-blacklist.not_found = Schwarzze Liste nicht gefunden
+blacklist.not_found = Schwarze Liste nicht gefunden
 blacklist.number = CID Nummer
 blacklist.number.tooltip = Nummer, welche in die schwarze Liste aufgenommen werden soll.
-blacklist.numebr.invalid = Die Nummer ist ungültig. <br>Die Nummer darf nur Ziffern und/oder "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/" Zeichen enthalten.
+blacklist.numebr.invalid = Die Nummer ist ungŸltig. <br>Die Nummer darf nur Ziffern und/oder "-", "_", ".", "!", "~", "*", " ' ", "(", ")", "&", "=", "+", "$", ",", ";", "?", "/" Zeichen enthalten.
 blacklist.search = Suche
 menu.blacklist = Schwarze Liste
 module.blacklist = Schwarze Liste
