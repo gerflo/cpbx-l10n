@@ -1,7 +1,7 @@
-cpbx.licenses.expire = {0} license is about to expire. Please contact your dealer for license renewal.
-cpbx.licenses.expire.subject = License expiration {0}
-cpbx.licenses_title.warning = WARNING! LICENSE INVALID
-cpbx.licenses_content.warning = The license of this system is not valid and your <b>PBX may not function properly</b>.<br/>The reason may be that the license has expired, that the system is not licensed or that it has no access to the licensing server. Please contact your system administrator.
-cpbx.licenses_confirm.warning = Confirm
-cpbx.ombu_allowed_extensions = You have reached your license limit of %d extensions.<br/>To purchase a license for additional extensions please contact your dealer.
+cpbx.licenses.expire = {0} Lizenz läuft ab. Bitte wenden Sie sich an Ihren Händler zur Lizenzerneuerung.
+cpbx.licenses.expire.subject = Lizenzablauf {0}
+cpbx.licenses_title.warning = WARNUNG! LIZENZ UNGÜLTIG
+cpbx.licenses_content.warning = Die Lizenz dieses Systems ist nicht gültig und Ihre <b> PBX funktioniert möglicherweise nicht richtig </ b>. <br/> <br/> Der Grund kann sein, dass die Lizenz abgelaufen ist, dass das System nicht lizenziert ist oder dass es keinen Zugriff auf den Lizenzserver hat. Bitte wenden Sie sich an Ihren Systemadministrator.
+cpbx.licenses_confirm.warning = Bestätigen
+cpbx.ombu_allowed_extensions = Sie haben Ihre Lizenzgrenze von% d Erweiterungen erreicht. <br/> Um eine Lizenz für zusätzliche Erweiterungen zu erwerben, wenden Sie sich bitte an Ihren Händler.
 cpbx.version = CPBX Version {0}

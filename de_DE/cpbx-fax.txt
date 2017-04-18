@@ -1,1 +1,1 @@
-fax.unlicensed = No valid license for FaxMaster found.
+fax.unlicensed = Keine gültige Lizenz für FaxMaster gefunden.
